@@ -53,7 +53,7 @@ public class Main {
 
         //10. Skriv en metod som skriver ut "Jag har skapat en metod i Java" metoden ska inte returnera ett värde.
         //Kalla på metoden
-        print_ln();
+        print_first_method();
 
         //11. Skriv en metod vid namn add som tar emot 2 integers och returnerar deras summa (int).
         //11.1 Använd metoden och skriv ut resultatet i konsolen.
@@ -73,7 +73,7 @@ public class Main {
 
     }
 
-    public static void print_ln() {
+    public static void print_first_method() {
         System.out.println("Jag har skapat en metod i Java");
     }
 
