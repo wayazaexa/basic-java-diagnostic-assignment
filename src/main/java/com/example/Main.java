@@ -36,7 +36,7 @@ public class Main {
         }
 
         //8. Skapa en ArrayList av Integers som innehåller 5 integer som du väljer själv.
-        ArrayList<Integer> int_arr_list = new ArrayList<Integer>();
+        ArrayList<Integer> int_arr_list = new ArrayList<>();
         int_arr_list.add(8);
         int_arr_list.add(13);
         int_arr_list.add(21);
